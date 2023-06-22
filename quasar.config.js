@@ -219,7 +219,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'todo-project'
+        appId: 'todo-quasarwithaxios'
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

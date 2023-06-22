@@ -1,4 +1,4 @@
-# Quasar App (todo-project)
+# Quasar App (todo-quasarwithaxios)
 
 A Quasar Project
 
